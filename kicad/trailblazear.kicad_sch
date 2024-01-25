@@ -995,7 +995,7 @@
     (property "Value" "5.1kΩ" (at 80.01 81.2799 0)
       (effects (font (size 2.54 2.54)) (justify right))
     )
-    (property "Footprint" "" (at 82.55 78.74 0)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 82.55 78.74 0)
       (effects (font (size 2.54 2.54)) hide)
     )
     (property "Datasheet" "" (at 82.55 78.74 0)
@@ -1256,7 +1256,7 @@
     (property "Value" "NeoPixel_THT" (at 234.95 45.8821 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 223.52 54.61 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (at 223.52 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "https://www.adafruit.com/product/1938" (at 224.79 56.515 0)
@@ -1284,7 +1284,7 @@
     (property "Value" "470Ω" (at 196.85 41.91 90)
       (effects (font (size 2.54 2.54)))
     )
-    (property "Footprint" "" (at 196.85 46.99 0)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 196.85 46.99 0)
       (effects (font (size 2.54 2.54)) hide)
     )
     (property "Datasheet" "" (at 196.85 46.99 0)
@@ -1344,7 +1344,7 @@
     (property "Datasheet" "" (at 222.25 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 072944af-d9d8-4213-b21c-d9a4b22d362d))
+    (pin "1" (uuid 072944af-d9d8-4213-b21c-d9a4b22d362e))
     (instances
       (project "trailblazear"
         (path "/80c22e35-1381-49b9-8ae7-3c5303478e36"
@@ -1369,7 +1369,7 @@
     (property "Datasheet" "" (at 101.6 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 072944af-d9d8-4213-b21c-d9a4b22d362d))
+    (pin "1" (uuid 072944af-d9d8-4213-b21c-d9a4b22d362f))
     (instances
       (project "trailblazear"
         (path "/80c22e35-1381-49b9-8ae7-3c5303478e36"
@@ -1394,7 +1394,7 @@
     (property "Datasheet" "" (at 25.4 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2c1987df-d26e-4fad-827a-3783e0f9e64f))
+    (pin "1" (uuid 2c1987df-d26e-4fad-827a-3783e0f9e650))
     (instances
       (project "trailblazear"
         (path "/80c22e35-1381-49b9-8ae7-3c5303478e36"
@@ -1419,7 +1419,7 @@
     (property "Datasheet" "" (at 127 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2c1987df-d26e-4fad-827a-3783e0f9e64f))
+    (pin "1" (uuid 2c1987df-d26e-4fad-827a-3783e0f9e651))
     (instances
       (project "trailblazear"
         (path "/80c22e35-1381-49b9-8ae7-3c5303478e36"
@@ -1438,7 +1438,7 @@
     (property "Value" "5.1kΩ" (at 90.17 81.2799 0)
       (effects (font (size 2.54 2.54)) (justify right))
     )
-    (property "Footprint" "" (at 87.63 78.74 0)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 87.63 78.74 0)
       (effects (font (size 2.54 2.54)) hide)
     )
     (property "Datasheet" "" (at 87.63 78.74 0)
@@ -1447,8 +1447,8 @@
     (property "Indicator" "+" (at 90.17 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid c8f79a16-a298-4160-b317-6f9c21f92e4f))
-    (pin "1" (uuid 2cdfc152-6b6d-4cb7-a593-df34c22df1de))
+    (pin "2" (uuid c8f79a16-a298-4160-b317-6f9c21f92e50))
+    (pin "1" (uuid 2cdfc152-6b6d-4cb7-a593-df34c22df1df))
     (instances
       (project "trailblazear"
         (path "/80c22e35-1381-49b9-8ae7-3c5303478e36"
